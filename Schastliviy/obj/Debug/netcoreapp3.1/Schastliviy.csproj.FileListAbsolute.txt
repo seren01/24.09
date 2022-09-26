@@ -1,0 +1,14 @@
+C:\Users\natya\source\repos\Schastliviy\bin\Debug\netcoreapp3.1\Schastliviy.exe
+C:\Users\natya\source\repos\Schastliviy\bin\Debug\netcoreapp3.1\Schastliviy.deps.json
+C:\Users\natya\source\repos\Schastliviy\bin\Debug\netcoreapp3.1\Schastliviy.runtimeconfig.json
+C:\Users\natya\source\repos\Schastliviy\bin\Debug\netcoreapp3.1\Schastliviy.runtimeconfig.dev.json
+C:\Users\natya\source\repos\Schastliviy\bin\Debug\netcoreapp3.1\Schastliviy.dll
+C:\Users\natya\source\repos\Schastliviy\bin\Debug\netcoreapp3.1\Schastliviy.pdb
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.csproj.AssemblyReference.cache
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.AssemblyInfoInputs.cache
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.AssemblyInfo.cs
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.csproj.CoreCompileInputs.cache
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.dll
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.pdb
+C:\Users\natya\source\repos\Schastliviy\obj\Debug\netcoreapp3.1\Schastliviy.genruntimeconfig.cache
